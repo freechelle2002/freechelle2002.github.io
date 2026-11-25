@@ -13,6 +13,6 @@ In this video, I walk through the original app, review its strengths and weaknes
 ## Enhancements
 
 Coming soon:
-- Enhancement One: Software Design and Engineering
-- Enhancement Two: Algorithms and Data Structures
-- Enhancement Three: Databases
+- [Enhancement One: Software Design and Engineering](enhancement-one.md)
+- Enhancement Two: Algorithms and Data Structures (coming soon)
+- Enhancement Three: Databases (coming soon)
